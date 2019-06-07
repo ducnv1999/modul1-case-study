@@ -1,0 +1,30 @@
+#myCanvas{
+    margin-top: 30px;
+    border: 2px solid #333333;
+    background-image: url("anhnen.png");
+    background-repeat: round;
+}
+.class-text {
+    position: inherit;
+    float: left;
+    width: 40%;
+}
+#title{
+    text-align: center;
+    text-transform: uppercase;
+}
+#hp {
+    color: #2c47ff;
+}
+#point {
+    color: #ff231a;
+}
+#result {
+    text-align: center;
+    color: #ff5c00;
+}
+p {
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 50px;
+}
